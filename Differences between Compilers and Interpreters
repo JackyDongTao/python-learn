@@ -1,0 +1,9 @@
+compiler(编译器）
+defition: A complier is a computer program that transform (translates) source code of a programming language into another
+computer language (the target lanuage). In most cases complies are used to tansform sorce code into executable program,I,e.
+They translate code from high-level programming languages into low (or lower) level languages, mostly assembly machine code.
+
+Interpreter(解释器）：
+definition:An interpreter is a computer program that executes instructions wrritten in a programming language . It can either
+   # execute the source code directly or 
+   # translates the source code in a first sttep into a more efficient representation and executes this code .
